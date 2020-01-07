@@ -27,3 +27,7 @@ out/
 
 # Editor-based Rest Client
 .idea/httpRequests
+
+mvnw
+mvnw.cmd
+*.iml
